@@ -54,4 +54,4 @@ A entrega demonstra domínio dos quatro tipos de diagrama trabalhados na Aula 3 
 
 Juntos, os quatro diagramas cobrem as quatro perguntas centrais da modelagem UML aplicadas ao Sistema de Biblioteca: **o quê, quem, como estruturado e como comunicado.**
 
-[PDF da Atividade Preenchida](../Assets/Biblioteca_Mermaid_ALUNOS%20-%20Entrega%20%20(1).pdf)
+[PDF da Atividade Preenchida](../Assets/PDFs/Biblioteca_Mermaid_ALUNOS%20-%20Entrega%20%20(1).pdf)

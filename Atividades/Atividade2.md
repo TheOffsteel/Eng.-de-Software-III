@@ -62,4 +62,4 @@ Representa o fluxo de tratamento de falhas detectadas por sensores:
 ## Conclusão
 O material integra requisitos de negócio (desempenho, segurança, confiabilidade, usabilidade e escalabilidade) com modelagem visual (casos de uso, classes, sequência e atividades), demonstrando como uma entrega urgente é processada de ponta a ponta — desde a solicitação do cliente até o tratamento de falhas críticas em campo.
 
-[PDF da Atividade Preenchida](../Assets/Sistema%20Autônomo%20de%20Entrega%20de%20Medicamentos%20-%20Entrega.pdf)
+[PDF da Atividade Preenchida](../Assets/PDFs/Sistema%20Autônomo%20de%20Entrega%20de%20Medicamentos%20-%20Entrega.pdf)
