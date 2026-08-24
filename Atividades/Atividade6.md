@@ -28,3 +28,5 @@ Um aplicativo de gestão para produtores rurais, com foco em monitoramento de sa
 ## Conclusão
 
 A atividade aplicou de forma prática os 9 blocos do Business Model Canvas estudados na aula, adaptando o modelo (originalmente exemplificado com Uber e com um app de vendas) para um novo contexto: o **setor agropecuário**, evidenciando como a proposta de valor de "gestão inteligente da propriedade rural" conecta-se de forma coerente aos canais, parcerias e fontes de receita definidos.
+
+[PDF da Atividade Preenchida](../Assets/Canvas%20-%20Entrega.pdf)
